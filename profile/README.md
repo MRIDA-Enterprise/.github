@@ -1,21 +1,23 @@
-# Spoonified 
-Revolutionize what you see when you eat.  
+# 🥄 `Spoonified` (prerelease)
+> ### _Revolutionize what you see when you eat._   
 
----  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/16076573/226982389-714396e0-c9dc-481c-9f82-e711841901ea.png" alt="spoonified1_90_cleaned" style="max-width: 100%;" width="300rem">
+</div>
 
-## ABOUT
+## ❔ ABOUT
 Many might ask why? 
 > @vishal, perhaps add something here? I am happy to add whatever you would like if you want to reply via email for this section, or I can omit it entirely if preferred. -- @jason
 
-## TECHNOLOGIES
+## 📻 TECHNOLOGIES
 We have **TWO Categories** of engineering taking place under the `Spoonified` moniker, so please see the two following sections for more detail.  
 
-### HARDWARE
+### 🧰 HARDWARE
 - Proof of Concept (PoC) Hardware constructed to assess feasibility
 -- `UTD ECE` Team Join --   
 > @ben, feel free to add here as you see fit, or send me what you would like added. -- @jason  
 
-### SOFTWARE
+### 💻 SOFTWARE
 - Proof of Concept (PoC) Built <sub><i>(see HARDWARE header above)</i></sub> to connect and rudimentarily connect to the prototype. 
 -- `UTD CS` Team Join --  
 - (In Progress) Back & Forth with ECE & Testing Image Resolutions / Deresolution 
@@ -26,7 +28,7 @@ We have **TWO Categories** of engineering taking place under the `Spoonified` mo
 ---  
 
 <details>
-<summary><i>(EXPAND for OPTIONS)</i></summary>
+<summary><i><code>(EXPAND for OPTIONS)</code></i></summary>
 
 # Design Strategies
 
@@ -53,7 +55,7 @@ _(etc)_
 
 </details>
 
-# GOING FORWARD
+# 📈 GOING FORWARD 
 The Spoonified goal is to provide your family, friends, and even potentially your healthcare provider(s)\*, but **MOST IMPORTANTLY**, You!  
 
 > -- Spoonified Team, 2023   
