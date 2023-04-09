@@ -1,9 +1,11 @@
-# 🥄 `Spoonified` (prerelease)
-> ### _Revolutionize what you see when you eat._   
-
+# 🥄 `Spoonified` 
 <div align="center">
+
+### _Revolutionize what you see when you eat._    
+
 <img src="https://user-images.githubusercontent.com/16076573/226982389-714396e0-c9dc-481c-9f82-e711841901ea.png" alt="spoonified1_90_cleaned" style="max-width: 100%;" width="300rem">
 </div>
+ 
 
 ## ❔ ABOUT
 Many might ask why? 
